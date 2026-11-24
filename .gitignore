@@ -1,0 +1,15 @@
+# Archivos de la máquina virtual y compilados
+*.class
+
+# Directorios de compilación y distribución de Java/NetBeans
+build/
+dist/
+bin/
+
+# Configuraciones locales del entorno de desarrollo
+nbproject/private/
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
